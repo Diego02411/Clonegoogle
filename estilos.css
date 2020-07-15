@@ -49,3 +49,44 @@ header button {
   border-radius: 2px;
   font-size: 13px;
 }
+
+main{
+  display: block;
+  align-items: center;
+  justify-content: center;
+}
+
+main img{
+  padding-top: 98px;
+}
+
+.imagenbuscador{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.buscadorcontainer{
+  display: flex;
+  height: 140px;
+  align-items: center;
+  justify-content: center;
+}
+
+.buscador {
+  width: 482px;
+  height: 44px;
+  border-radius: 30px;
+  border: 1px solid #dfe1e5; 
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.contenedortexto{
+  outline: none;
+  width: 387px;
+  height: 34px;
+  margin: 2px 0px 0px 10px;
+  border: none;
+}
