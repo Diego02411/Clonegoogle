@@ -10,16 +10,42 @@ body {
   justify-content: flex-end;
 }
 
+.gmaila {
+  margin-right: 10px;
+}
+
 header a{
   text-decoration: none;
-  color: #434343;
+  color: black;
   display: inherit;
-  margin: 15px 8px;
-  font-size: 14px;
+  margin: 0px 5px;
+  font-size: 13px;
+  margin-bottom: 5px;
+  margin-right: 3px;
 }
 
 header {
   display: flex;
   align-items: flex-end;
   justify-content: flex-end;
+}
+
+header img {
+  margin: 0px 20px;
+  margin-bottom: 3px;
+  margin-right: 21px;
+  margin-left: 18.5px;
+}
+
+header button {
+  background-color: #4683eb;
+  color: white;
+  width: 109px;
+  height: 30px;
+  margin-right: 22px;
+  margin-bottom: 5px;
+  border: none;
+  font-weight: bold;
+  border-radius: 2px;
+  font-size: 13px;
 }
